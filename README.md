@@ -62,11 +62,4 @@ A collection of smaller projects across Java, C++, C#, and PHP focused on streng
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: 
-  
-
----
-
 ⭐ *"Code is not just written—it is brought to life."*
